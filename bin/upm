@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-require("../lib/gpm")(
+require("../lib/upm")(
   process.cwd(), process.argv.slice(2)
 );

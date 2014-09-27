@@ -1,4 +1,4 @@
-gpm
+upm
 ===
 
-git/gyp package manager
+uxlib package manager

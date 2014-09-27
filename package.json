@@ -1,24 +1,24 @@
 {
-  "name": "gpm",
+  "name": "upm",
   "version": "0.1.1",
-  "description": "git/gyp package manager",
+  "description": "uxlib package manager",
   "keywords": [
-    "gpm", "git", "package", "manager", "js", "c++", "c", "gyp", "npm"
+    "uxlib", "upm", "git", "package", "manager", "js", "c++", "c", "gyp", "npm"
   ],
-  "homepage": "https://github.com/uxlib/gpm",
+  "homepage": "https://github.com/uxlib/upm",
   "author": {
     "name": "Futago-za Ryuu",
     "email": "futagoza.ryuu@gmail.com",
     "url": "https://futagoza.github.io/"
   },
   "preferGlobal": true,
-  "main": "lib/gpm.js",
+  "main": "lib/upm.js",
   "bin": {
-    "gpm": "bin/gpm"
+    "upm": "bin/upm"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/uxlib/gpm.git"
+    "url": "http://github.com/uxlib/upm.git"
   },
   "dependencies": {
     "mkdirp": "0.5.0",
